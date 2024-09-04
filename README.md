@@ -3,8 +3,8 @@
 # ⚡ Sobre mim: 
 - 🎓 Cursando Ciência da Computação
 - 🌱 Estou me aventurando no mundo da programação...
-- 💻 Estudando programação Web (JS, CSS, HTML)
-- 💼 Estagiando na SetupJr, empresa júnior da Universidade Estadual do Norte do Paraná (UENP)
+- 💻 Estudando programação Web FullStack(React, Node, PHP, Laravel, Fillament). 
+- 💼 Estagiando na Rem Soft Sitemas
 - 🚀 Buscando por novas oportunidades!
 
 ## 🌐 Rede Sociais:
