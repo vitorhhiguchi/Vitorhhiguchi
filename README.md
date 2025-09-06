@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Vitor Hiroshi Higuchi 👋</h1>
-<h3 align="center">Desenvolvedor Web FullStack apaixonado por criar soluções inovadoras.</h3>
+<h3 align="center">Desenvolvedor Web FullStack.</h3>
 
 <p align="center">
   <a href="https://instagram.com/vitorhhiguchi/" target="_blank">
@@ -15,7 +15,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Graduando em **Ciência da Computação**.
-- 💼 Atualmente, sou estagiário de desenvolvimento na **Rem Soft Sistemas**, onde contribuo para projetos reais e aprimoro minhas habilidades.
+- 💼 Atualmente, sou bolsista de desenvolvimento no projeto **Gamba em Ação**, onde contribuo para projetos reais e aprimoro minhas habilidades.
 - 💡 Foco no desenvolvimento de aplicações **Web FullStack**, utilizando tecnologias modernas para criar interfaces dinâmicas e sistemas robustos no backend.
 - 🌱 Sempre em busca de aprendizado e novos desafios para evoluir como desenvolvedor. Aberto a novas oportunidades!
 
@@ -36,18 +36,22 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       <br><strong>Node.js</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br><strong>PHP</strong>
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br><strong>Express</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br><strong>Laravel</strong>
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br><strong>PHP</strong>
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
       <br><strong>JavaScript</strong>
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
       <br><strong>TypeScript</strong>
     </td>
@@ -62,29 +66,27 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       <br><strong>CSS3</strong>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br><strong>MySQL</strong>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br><strong>Tailwind</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br><strong>C</strong>
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+        <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br><strong>Prisma</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><strong>Docker</strong>
     </td>
   </tr>
 </table>
----
-
-### ✨ Meus Projetos em Destaque
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorhhiguchi&repo=NOME_DO_SEU_REPO&theme=highcontrast)](https://github.com/Vitorhhiguchi/NOME_DO_SEU_REPO)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorhhiguchi&repo=NOME_DE_OUTRO_REPO&theme=highcontrast)](https://github.com/Vitorhhiguchi/NOME_DE_OUTRO_REPO)
-
 
 ---
 
@@ -100,6 +102,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Vitorhhiguchi&icon=0&color=0" alt="visitor count">
-</p>
+
+### 💬 Languages
+- ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+- ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
