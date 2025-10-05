@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Graduando em **Ciência da Computação**.
+- 🎓 Graduando em **Ciência da Computação**, 6° semestre.
 - 💼 Atualmente, sou bolsista de desenvolvimento no projeto **Gamba em Ação**, onde contribuo para um site e aplicativo, e aprimoro minhas habilidades.
 - 💡 Foco no desenvolvimento de aplicações **Web FullStack**, utilizando tecnologias modernas para criar interfaces dinâmicas e sistemas robustos no backend.
 - 🌱 Sempre em busca de aprendizado e novos desafios para evoluir como desenvolvedor. Aberto a novas oportunidades!
